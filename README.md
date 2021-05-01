@@ -17,7 +17,7 @@ Considerando que cada classificação é feita em um *script* por uma função n
 
 <div align="center">
     <figure>
-        <img src=".github/methodology_overview.png" width=400px>
+        <img src=".github/methodology_overview.png" width=400px><br>
         <figcaption><b>Figura 1.</b> Fluxo de operação das funções de classificação em cada experimento. </figcaption>
     </figure>
 </div>
@@ -74,7 +74,7 @@ As figuras de comparação são apresentadas abaixo. Como pode-se perceber, para
 
 <div align="center">
     <figure>
-        <img src=".github/experiment_02_diff.png" width=600px>
+        <img src=".github/experiment_02_diff.png" width=600px><br>
         <figcaption><b>Figura 3.</b> Comparação entre os resultados gerados no Experimento 02</figcaption>
     </figure>
 </div>
