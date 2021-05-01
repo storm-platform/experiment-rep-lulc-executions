@@ -22,6 +22,8 @@ Considerando que cada classificação é feita em um *script* por uma função n
     </figure>
 </div>
 
+<br>
+
 > O estilo utilizado para a geração de todas as figuras em que os mapas de classificação são apresentados, está disponível no arquivo <font color="#000099">estilo.qml</font>
 
 Em resumo:
@@ -71,6 +73,7 @@ As figuras de comparação são apresentadas abaixo. Como pode-se perceber, para
     </figure>
 </div>
 
+<br><br>
 
 <div align="center">
     <figure>
