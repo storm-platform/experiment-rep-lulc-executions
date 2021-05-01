@@ -77,9 +77,11 @@ As figuras de comparação são apresentadas abaixo. Como pode-se perceber, para
 
 <div align="center">
     <figure>
-        <img src=".github/experiment_02_diff.png" width=600px>
+        <img src=".github/experiment_02_diff.png" width=600px><br>
         <figcaption><b>Figura 3.</b> Comparação entre os resultados gerados no Experimento 02</figcaption>
     </figure>
 </div>
+
+<br>
 
 Assim, é possível entender a importância de seguir boas práticas ao gerar os resultados de uma pesquisa. Aqui, mesmo com o ambiente computacional, dados e código disponível, para o caso do Experimento 01, seria impossível a reprodução.
