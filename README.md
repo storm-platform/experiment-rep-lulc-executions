@@ -68,7 +68,7 @@ As figuras de comparação são apresentadas abaixo. Como pode-se perceber, para
 
 <div align="center">
     <figure>
-        <img src=".github/experiment_01_diff.png" width=600px><br>
+        <img src=".github/experiment_01_diff.png" width=800px><br>
         <figcaption><b>Figura 2.</b> Comparação entre os resultados gerados no Experimento 01</figcaption>
     </figure>
 </div>
@@ -77,7 +77,7 @@ As figuras de comparação são apresentadas abaixo. Como pode-se perceber, para
 
 <div align="center">
     <figure>
-        <img src=".github/experiment_02_diff.png" width=600px><br>
+        <img src=".github/experiment_02_diff.png" width=800px><br>
         <figcaption><b>Figura 3.</b> Comparação entre os resultados gerados no Experimento 02</figcaption>
     </figure>
 </div>
